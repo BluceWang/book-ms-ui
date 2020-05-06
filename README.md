@@ -16,7 +16,7 @@
 
 ## 项目介绍
 
-基于 vue.js 、element-ui 搭建一个极简的图书管理平台。项目功能不是很多，但是前后端分离的项目，该用到的技术点也都会涉及到，很适合开始准备学 vue 的同学，具体有以下特点：
+基于 vue.js 、element-ui 搭建一个极简的图书管理平台。项目功能不是很多，但是前后端分离的项目，该用到的技术点也都会涉及到，具体有以下特点：
 
 - 完备组织架构体系，基于 RBAC 模型实现用户权限配置
 
@@ -79,6 +79,3 @@
 
 ## License
 
-[MIT](https://github.com/Zealon159/book-ms-ui/blob/master/LICENSE)
-
-Copyright (c) 2020 光彩盛年
